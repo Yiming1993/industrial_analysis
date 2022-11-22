@@ -1,0 +1,94 @@
+﻿name,ring,quadrant,isNew,description
+GPT-3,采用,语言,FALSE,由OpenAI研发，链接：https://openai.com/blog/gpt-3-apps/
+AI21 Studio/Jurassic-1,尝试,语言,TRUE,由AI21 Lab研发，链接：https://www.ai21.com/studio
+Megatron-Tuning,观望,语言,FALSE,由英伟达、微软研发，链接：https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
+Turing-NLG,观望,语言,FALSE,由微软研发，链接：https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/
+WeLM,尝试,语言,TRUE,由腾讯研发，链接：https://welm.weixin.qq.com/docs/playground/
+CPM-Ant+,评估,语言,TRUE,由清华大学研发，链接：https://live.openbmb.org/home
+源1.0,评估,语言,FALSE,由浪潮研发，链接：https://www.inspur.com/lcjtww/445068/445237/2588228/index.html
+UniMC,评估,语言,TRUE,由IDEA研发，链接：https://huggingface.co/IDEA-CCNL
+Sparraw,观望,语言,TRUE,由DeepMind研发，链接：https://www.deepmind.com/blog/building-safer-dialogue-agents
+FLAN-T5,观望,语言,TRUE,由谷歌研发，链接：https://arxiv.org/abs/2210.11416
+BlenderBot3,评估,语言,TRUE,由Meta研发，链接：https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/
+Atlas,观望,语言,TRUE,由Meta研发，链接：https://arxiv.org/pdf/2208.03299.pdf
+NLLB-200,评估,语言,TRUE,由Meta研发，链接：https://ai.facebook.com/research/no-language-left-behind/
+Bloom,观望,语言,TRUE,由Hugging Face研发，链接：https://huggingface.co/blog/bloom-megatron-deepspeed
+YaLM 100B,评估,语言,TRUE,由Yandex研发，链接：https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
+OPT,尝试,语言,TRUE,由Meta研发，链接：https://arxiv.org/pdf/2205.01068.pdf
+LaMDA,评估,语言,TRUE,由谷歌研发，链接：https://www.blog.google/technology/ai/lamda/
+PaLM,评估,多模态,TRUE,由谷歌研发，链接：https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+Gopher,观望,语言,FALSE,由DeepMind研发，链接：https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf
+GLM-130B,评估,语言,TRUE,由清华大学研发，链接：https://github.com/THUDM/GLM-130B
+悟道-CPM,尝试,语言,FALSE,由智源、清华等研发，链接：https://wudaoai.cn/model/detail/CPM%E7%B3%BB%E5%88%97
+悟道-EVA,尝试,语言,FALSE,由智源、清华等研发，链接：https://wudaoai.cn/model/detail/EVA
+悟道-TransformerXL,尝试,语言,FALSE,由智源、清华等研发，链接：https://wudaoai.cn/model/detail/Transformer-XL
+悟道-Lawformer,尝试,语言,FALSE,由智源、清华等研发，链接：https://wudaoai.cn/model/detail/Lawformer
+悟道-CogView,尝试,多模态,FALSE,由智源、人民大学等研发，链接：https://wudaoai.cn/model/detail/CogView
+悟道-文澜BriVL,尝试,多模态,FALSE,由智源、人民大学等研发，链接：https://wudaoai.cn/model/detail/BriVL
+悟道-ProteinLM,尝试,其他,FALSE,由智源、清华等研发，链接：https://wudaoai.cn/model/detail/ProteinLM
+Mengzi,评估,语言,FALSE,由澜舟科技、创新工场等研发，链接：https://github.com/Langboat/Mengzi
+盘古NLP,尝试,语言,FALSE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+盘古CV,尝试,视觉,FALSE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+盘古多模态,观望,多模态,FALSE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+盘古科学计算,观望,其他,FALSE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+盘古语音,观望,其他,FALSE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+盘古气象,尝试,其他,TRUE,由华为研发，链接：https://www.huaweicloud.com/product/modelarts/pangu.html
+通义M6,尝试,多模态,TRUE,由阿里达摩院研发，链接：https://github.com/OFA-Sys/OFA
+文心NLP,尝试,语言,FALSE,由百度研发，链接：https://wenxin.baidu.com/wenxin/nlp
+文心CV,评估,视觉,FALSE,由百度研发，链接：https://wenxin.baidu.com/wenxin/cv
+文心跨模态,尝试,多模态,FALSE,由百度研发，链接：https://wenxin.baidu.com/wenxin/multi
+文心生物计算,评估,其他,FALSE,由百度研发，链接：https://wenxin.baidu.com/wenxin/paddlehelix
+文心行业,尝试,其他,FALSE,由百度研发，链接：https://wenxin.baidu.com/wenxin/industry
+Re-Imagen,观望,多模态,TRUE,由谷歌研发，链接：https://arxiv.org/abs/2209.14491
+MAE,尝试,视觉,FALSE,由Meta研发，链接：https://arxiv.org/pdf/2111.06377.pdf
+ViT,尝试,视觉,FALSE,由谷歌研发，链接：https://huggingface.co/docs/transformers/model_doc/vit
+Swin Transformer,尝试,视觉,FALSE,由微软亚洲研究院研发，链接：https://arxiv.org/pdf/2103.14030.pdf
+通义视觉,尝试,视觉,TRUE,由阿里达摩院研发，链接：https://github.com/OFA-Sys/OFA
+通义AliceMind,尝试,多模态,TRUE,由阿里达摩院研发，链接：https://github.com/alibaba/AliceMind/
+ImageGPT,观望,视觉,FALSE,由OpenAI研发，链接：https://openai.com/blog/image-gpt/
+CLIP,尝试,多模态,FALSE,由OpenAI研发，链接：https://openai.com/blog/clip/
+GLIDE,尝试,多模态,FALSE,由OpenAI研发，链接：https://arxiv.org/pdf/2112.10741.pdf
+Stable Diffusion,采用,多模态,TRUE,由Stability AI研发，链接：https://github.com/Stability-AI/stability-sdk
+Dall E/Dall E-2,采用,多模态,TRUE,由OpenAI研发，链接：https://openai.com/dall-e-2/
+FalgStudio,尝试,多模态,TRUE,由智源研发，链接：https://hub.baai.ac.cn/view/20969
+PaLI,观望,多模态,TRUE,由谷歌研发，链接：https://arxiv.org/pdf/2209.06794.pdf
+DreamFusion,评估,多模态,TRUE,由谷歌、UC伯克利研发，链接：https://dreamfusion3d.github.io/
+BeiT系列,评估,多模态,TRUE,由微软亚洲研究院等研发，链接：https://github.com/microsoft/unilm/tree/master/beit
+CogVideo,评估,多模态,TRUE,由清华大学、智源研发，链接：https://arxiv.org/pdf/2205.15868.pdf
+Make-a-Scene,评估,多模态,TRUE,由Meta研发，链接：https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/
+Dall E mini,尝试,多模态,TRUE,由Craiyon研发，链接：https://huggingface.co/dalle-mini/dalle-mega
+Parti,评估,多模态,TRUE,由谷歌研发，链接：https://parti.research.google/
+Imgen,评估,多模态,TRUE,由谷歌研发，链接：https://imagen.research.google/
+Gato,观望,其他,FALSE,由DeepMind研发，链接：https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf
+Flamingo,评估,多模态,TRUE,由DeepMind研发，链接：https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/tackling-multiple-tasks-with-a-single-visual-language-model/flamingo.pdf
+CogView/CogView 2,评估,多模态,FALSE,由清华大学、智源研发，链接：https://arxiv.org/pdf/2204.14217.pdf
+封神榜·太乙,评估,多模态,TRUE,由IDEA研发，链接：https://github.com/IDEA-CCNL/Fengshenbang-LM
+封神榜·二郎神,评估,语言,TRUE,由IDEA研发，链接：https://github.com/IDEA-CCNL/Fengshenbang-LM
+封神榜·闻仲,评估,语言,TRUE,由IDEA研发，链接：https://github.com/IDEA-CCNL/Fengshenbang-LM
+封神榜·燃灯,评估,语言,TRUE,由IDEA研发，链接：https://github.com/IDEA-CCNL/Fengshenbang-LM
+封神榜·余元,评估,其他,TRUE,由IDEA研发，链接：https://github.com/IDEA-CCNL/Fengshenbang-LM
+NUWA-Infinity,评估,多模态,TRUE,由微软亚洲研究院、北京大学等研发，链接：https://nuwa-infinity.microsoft.com/#/
+LAVENDER,评估,多模态,TRUE,由微软研发，链接：https://arxiv.org/pdf/2206.07160v1.pdf
+Paint2Pix,评估,多模态,TRUE,由Adobe、澳洲国立大学研发，链接：https://arxiv.org/pdf/2208.08092v1.pdf
+CodeT,尝试,其他,TRUE,由微软研发，链接：https://arxiv.org/pdf/2207.10397.pdf
+Transframer,观望,其他,TRUE,由DeepMind研发，链接：https://arxiv.org/pdf/2203.09494.pdf
+PaLM-SayCan,尝试,其他,TRUE,由谷歌研发，链接：https://ai.googleblog.com/2022/08/towards-helpful-robots-grounding.html
+AudioLM,评估,其他,TRUE,由谷歌研发，链接：https://arxiv.org/pdf/2209.03143.pdf
+Make-a-Video,评估,其他,TRUE,由Meta研发，链接：https://makeavideo.studio/
+Act-1,评估,其他,TRUE,由Adept研发，链接：https://www.adept.ai/act
+GFlowNet,观望,多模态,TRUE,由MILA、Meta研发，链接：https://arxiv.org/abs/2209.02606
+CodeX,采用,其他,FALSE,由OpenAI研发，链接：https://www.pnas.org/doi/10.1073/pnas.2123433119
+VPT,评估,其他,TRUE,由OpenAI等研发，链接：https://openai.com/blog/vpt/
+Minerva,观望,其他,TRUE,由谷歌研发，链接：https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html
+WavLM,评估,其他,TRUE,由微软亚洲研究院研发，链接：https://arxiv.org/pdf/2110.13900.pdf
+Retro,观望,语言,FALSE,由DeepMind研发，链接：https://arxiv.org/pdf/2112.04426.pdf
+Code as Policies,评估,其他,TRUE,由谷歌研发，链接：https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html
+CodeRL,观望,其他,FALSE,由Salesforce研发，链接：https://arxiv.org/pdf/2207.01780v1.pdf
+Jiuzhang,评估,其他,TRUE,由人民大学、中科大等研发，链接：https://arxiv.org/pdf/2206.06315.pdf
+AlphaCode,评估,其他,TRUE,由DeepMind研发，链接：https://www.deepmind.com/blog/competitive-programming-with-alphacode
+eDiffi,评估,多模态,TRUE,由英伟达研发，链接：https://deepimagination.cc/eDiffi/
+CLIP H/14,评估,多模态,TRUE,由Laion研发，链接：https://laion.ai/blog/large-openclip/
+T-ULRv6,评估,语言,TRUE,"由微软亚洲研究院研发，链接：https://blogs.bing.com/search-quality-insights/october-2022/Microsoft-Turing-Universal-Language-Representation-model,-T-ULRv6,-tops-both-XTREME-and-GLUE-leaderb"
+AltDiffution,评估,多模态,TRUE,由智源研发，链接：https://mp.weixin.qq.com/s/mQ0CcTlkrMalZhPSMg4K4Q
+AltCLIP,评估,语言,TRUE,由智源研发，链接：https://mp.weixin.qq.com/s/mQ0CcTlkrMalZhPSMg4K4Q
+AltDiffusion-M,评估,多模态,TRUE,由智源研发，链接：https://mp.weixin.qq.com/s/mQ0CcTlkrMalZhPSMg4K4Q
